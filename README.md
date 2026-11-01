@@ -79,7 +79,6 @@
 # 推荐文章
 
 - [如何简单便捷的批量获取Telegram/纸飞机/电报成品号](https://github.com/zekawha-cell/chat)
-- [如何低价获得一个高质量的Twitter账号](https://github.com/zekawha-cell/Twitter)
 - [注册满一年老号 稳定耐用直登无设备验证 Gmail邮箱 部分有使用痕迹](https://github.com/zekawha-cell/Gmail)
 - [低价出售 高质量账号 谷歌账号购买批发 谷歌邮箱Gmail账号购买](https://github.com/zekawha-cell/a38.top)
 - [Telegram购买全攻略：靠谱账号购买平台推荐、安全避坑指南](https://github.com/zekawha-cell/tg)
